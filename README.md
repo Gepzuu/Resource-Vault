@@ -10,7 +10,7 @@ https://resource-vault.vercel.app/
 
 # Preview:
 <div align="center">
-
+<img src="https://github.com/user-attachments/assets/9eba4ce7-fc80-4c7e-be70-ee255cd9b235">
 
 </div>
 
